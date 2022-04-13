@@ -7,4 +7,3 @@ def front_back(word):
                 c=word[0]
                   return b+a+c
               front_back("clarusway")
-              print("volkann")
